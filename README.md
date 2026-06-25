@@ -824,3 +824,7 @@ El trabajo debe demostrar que el estudiante puede:
 - Renderizar listados dinámicos.
 - Crear una página de detalle usando un `id`.
 - Separar la interfaz en componentes reutilizables.
+
+## Uso de la IA en el TP
+
+Se uso la ia para poder entender conceptos, para preguntar por buenas practicas para entender errores que marcaba next y saber clases de tailwind.
